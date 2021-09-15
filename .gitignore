@@ -167,3 +167,6 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+
+# too large data
+/thesis_undergraduate/data/*.csv
