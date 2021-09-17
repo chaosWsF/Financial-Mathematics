@@ -171,3 +171,5 @@ rsconnect/
 # too large data
 /thesis_undergraduate/data/*.csv
 /Stats_R/*.pdf
+
+.vscode

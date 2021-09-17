@@ -24,7 +24,7 @@ interpolation; the approximation of a complicated function by a simple function
 - Composite Simpson's Rule
 - Romberg Integration
 - Composite Gaussian Quadrature
-    - Gaussian-Legendre ploynominal
+    - Gaussian-Legendre polynomial
 
 ## Report 4: Initial-Value Problems for Ordinary Differential Equations
 
@@ -59,7 +59,7 @@ approximate functions or discrete data
   - `numpy.polyfit`
 - Hilbert matrix for continuous functions
   - `scipy.linalg.solve`
-- Orthogonal Polynominals
-  - Legendre ploynominals
-  - Chebyshev Polynominals
+- Orthogonal Polynomials
+  - Legendre polynomials
+  - Chebyshev Polynomials
   - `from numpy.polynomial import *`
