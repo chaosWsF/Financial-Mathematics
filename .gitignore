@@ -177,3 +177,4 @@ rsconnect/
 */data/*.xlsx
 
 */references/*.pdf
+*/references/*/*.pdf
