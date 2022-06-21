@@ -175,3 +175,5 @@ rsconnect/
 .vscode
 /MATH508/
 */data/*.xlsx
+
+*/references/*.pdf
