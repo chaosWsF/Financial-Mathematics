@@ -1,17 +1,8 @@
 # Financial-Mathematics
 
-Steps for learning FM/MF
+Steps for learning Financial Mathematics or Mathematical Finance.
 
 ## Tikz Speedup
-
-### Key Points
-- It seems likely that TikzEdt and ktikz are strong alternatives to tikzit for quicker Tikz diagram creation, especially for writing papers.
-- Research suggests using pre-defined templates, custom commands, and online galleries can also speed up Tikz usage, depending on your workflow.
-- The evidence leans toward visual editors like TikzEdt offering more flexibility, while tikzit excels for graphs and string diagrams.
-
----
-
-### Direct Answer
 
 #### Introduction
 If you’re looking for faster ways to use Tikz for writing papers, besides tikzit, there are several options that can save time, especially for creating diagrams in LaTeX documents. These methods cater to both visual editing and code-based approaches, fitting well with your paper-writing needs.
@@ -28,8 +19,6 @@ If you’re looking for faster ways to use Tikz for writing papers, besides tikz
 
 #### Unexpected Detail
 An interesting aspect is that ktikz, while less known, offers KDE integration, which might be seamless if you’re already using KDE-based tools, potentially saving setup time compared to tikzit’s standalone nature.
-
----
 
 ---
 
